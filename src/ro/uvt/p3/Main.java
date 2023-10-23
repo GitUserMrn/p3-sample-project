@@ -10,6 +10,6 @@ public class Main {
         OutputDevice od = new OutputDevice();
         Application app = new Application(id, od);
 
-        app.run();
+        app.run(); //123123123123
     }
 }
